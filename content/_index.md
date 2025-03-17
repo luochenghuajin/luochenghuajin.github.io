@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        示例
-        Research Group
+        鸣潮
+        课题组
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **示例 Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        鸣潮课题组，建立于2025年3月18日，以菲比为组织首领，南京哪儿大学计算机学院某同学创建此网站作为课题组示例。
   
   - block: collection
     content:
